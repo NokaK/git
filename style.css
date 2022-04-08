@@ -1,11 +1,12 @@
 body {
-  background-color: red;
+background-color: red;
 }
 
 header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: grey;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: grey;
 }
+	
